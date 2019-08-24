@@ -1,0 +1,7 @@
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\bin\Debug\ImportadorExcel.exe.config
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\bin\Debug\ImportadorExcel.exe
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\bin\Debug\ImportadorExcel.pdb
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\obj\Debug\ImportadorExcel.csprojAssemblyReference.cache
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\obj\Debug\ImportadorExcel.csproj.CoreCompileInputs.cache
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\obj\Debug\ImportadorExcel.exe
+C:\Users\suporte\source\repos\ImportadorExcel\ImportadorExcel\obj\Debug\ImportadorExcel.pdb
